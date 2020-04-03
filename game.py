@@ -3,7 +3,7 @@ import pygame
 pygame.init()
 win = pygame.display.set_mode((500, 500))
 
-pygame.display.set_caption('Побегушки Трампа v2.0')
+pygame.display.set_caption('2D Shooter')
 
 walkLeft = [pygame.image.load('sprites/pygame_left_1.png'),
             pygame.image.load('sprites/pygame_left_2.png'), pygame.image.load('sprites/pygame_left_3.png'),
